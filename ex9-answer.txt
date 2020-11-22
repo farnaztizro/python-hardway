@@ -1,0 +1,13 @@
+Here the days: Mon Tue Wed Thu Fri Sat Sun
+Here the months: Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+
+here you can write anything.
+as much as you like.
+4,5 or more lines.
