@@ -1,0 +1,5 @@
+$python ex13.py fisrt 2nd 3rd #expected variables
+this script is called: ex13.py
+your first variable is: fisrt
+your second variable is: 2nd
+your third variable is: 3rd
