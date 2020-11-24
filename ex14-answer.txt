@@ -1,0 +1,10 @@
+$python ex14.py farnaz
+
+Hi farnaz, i'm the ex14.py script.
+i'd like to ask u a few questions.
+do u like me farnaz?
+>yes
+where do u live farnaz?
+>iran
+so u said u love farnaz.
+you said u living in iran.
