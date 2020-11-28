@@ -1,0 +1,14 @@
+let's practice everything.
+you 'd need to know 'bout escapes with \ that do:
+
+ new lines       and tabs
+---------------
+
+        You are the one girl
+And you know that it's true
+I'm feeling younger
+Every time that I'm alone with you.
+---------------
+this should be five: 5
+with starting point of: 1000
+we'd have 500000 beans, 500.0 jars, and 5.0 crates.
