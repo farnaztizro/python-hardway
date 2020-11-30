@@ -1,0 +1,29 @@
+>>> import ex25
+>>> sentence = "All I have is YOU."
+>>> words = ex25.break_words(sentence)
+>>> words
+['All', 'I', 'have', 'is', 'YOU.']
+>>> sorted_words = ex25.sort_words(words)
+>>> sorted_words
+['All', 'I', 'YOU.', 'have', 'is']
+>>> ex25.print_first_word(words)
+All
+>>> ex25.print_last_word(words)
+YOU.
+>>> words
+['I', 'have', 'is']
+>>> ex25.print_first_word(sorted_words)
+All
+>>> ex25.print_last_word(sorted_words)
+is
+>>> sorted_words
+['I', 'YOU.', 'have']
+>>> sorted_words = ex25.sort_sentence(sentence)
+>>> sorted_words
+['All', 'I', 'YOU.', 'have', 'is']
+>>> ex25.print_first_and_last(sentence)
+All
+YOU.
+>>> ex25.print_first_and_last_sorted(sentence)
+All
+is
