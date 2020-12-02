@@ -1,0 +1,25 @@
+at the top i is 0
+numbers now: [0]
+at the bottom i is 1
+at the top i is 1
+numbers now: [0, 1]
+at the bottom i is 2
+at the top i is 2
+numbers now: [0, 1, 2]
+at the bottom i is 3
+at the top i is 3
+numbers now: [0, 1, 2, 3]
+at the bottom i is 4
+at the top i is 4
+numbers now: [0, 1, 2, 3, 4]
+at the bottom i is 5
+at the top i is 5
+numbers now: [0, 1, 2, 3, 4, 5]
+at the bottom i is 6
+the numbers:
+0
+1
+2
+3
+4
+5
